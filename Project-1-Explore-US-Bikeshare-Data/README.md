@@ -10,4 +10,4 @@ To complete this project, the following software requirements apply:
 
 ![img](image/divvy.jpg)
 
-Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: Wikipedia)
+Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: [Wikipedia](https://en.wikipedia.org/wiki/Divvy))
