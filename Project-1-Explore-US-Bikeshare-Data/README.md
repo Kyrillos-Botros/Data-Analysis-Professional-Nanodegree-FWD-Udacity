@@ -8,6 +8,6 @@ To complete this project, the following software requirements apply:
 - A text editor, like Sublime or Atom.
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-![img](/image/divvy.jpg)
+![img](image/divvy.jpg)
 
 Divvy is a bicycle sharing system in the City of Chicago and two adjacent suburbs (image: Wikipedia)
