@@ -1,6 +1,6 @@
 # Project: No-Show Appointments
 
-![img](image\No-show-appointments.PNG)
+![img](image/No-show-appointments.PNG)
 
 ## Introduction
 
